@@ -1,4 +1,4 @@
-#libraries we will need
+# list of all libraries we will need
 
 transformers  #library to use hugging face 
 transformers[sentencepiece]

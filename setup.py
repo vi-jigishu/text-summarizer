@@ -1,4 +1,5 @@
 #couldnt understand what the projecttools in setuptools.setup() is doing
+#the logic for instalation of requirements.txt is written in this secttion
 
 import setuptools
 
